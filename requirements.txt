@@ -7,7 +7,7 @@ click==8.3.1
 cryptography==46.0.5
 fastapi==0.135.1
 h11==0.16.0
-idna==3.11
+idna==3.15
 pillow==12.1.1
 pycparser==3.0
 pydantic==2.12.5
